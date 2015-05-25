@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	.git file where the repository information is stored is created when we
+	initialize a repository.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	It makes us able to work with different file(s) in the same repository and
+	commit only the select files.
