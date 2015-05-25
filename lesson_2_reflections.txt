@@ -20,3 +20,8 @@ organized? How would branches help?
 
 	Branches would help keeping different versions, updating independently
 	and maybe even merge afterwards (mostly for experimental branches)
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams basically visualize the branch structure, therefore, it does what
+	it does.
