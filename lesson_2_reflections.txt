@@ -31,3 +31,10 @@ the diagram the way we do?
 
 	A commit with two parents. We represent it in the diagram the way we do to
 	keep track of when and at which commit the changes are made easier.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	Some changes are obvious to stay after merging. Therefore, auto merge does
+	some footwork quickly. For conflicts, there will be help required from the
+	user.
