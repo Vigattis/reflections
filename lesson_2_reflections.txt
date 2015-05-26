@@ -25,3 +25,9 @@ How do the diagrams help you visualize the branch structure?
 
 	Diagrams basically visualize the branch structure, therefore, it does what
 	it does.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	A commit with two parents. We represent it in the diagram the way we do to
+	keep track of when and at which commit the changes are made easier.
