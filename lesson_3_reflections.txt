@@ -37,4 +37,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Ideally, before each change we make on a multi-user repo, we should create
+    a new branch. This way, we'll be able to merge and fix if there are other
+    changes made to a file which we also edited by someone else.
+    If no one's going to change the file that we are changing, then we can just
+    use branch and save ourselves a step before updating the version on repo.
